@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/Base/BP_GM.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/Base/BP_GI.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/Base/BP_GS.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/Base/BP_HUD.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/Base/BP_PC.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/Base/BP_PS.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/UI/Interactables/W_Interactable.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/UI/Interactables/W_Interact_Loadbar.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/Gameplay/Interactables/BP_Interactable_Master.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/Gameplay/Interfaces/BPI_Intercatable.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/Characters/Components/InteractionComponent.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/UI/Interactables/W_Interact_Message.uasset"
+			]
+		}
+	]
+}
