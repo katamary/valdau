@@ -13,12 +13,22 @@
 				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/Base/BP_HUD.uasset",
 				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/Base/BP_PC.uasset",
 				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/Base/BP_PS.uasset",
-				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/UI/Interactables/W_Interactable.uasset",
 				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/UI/Interactables/W_Interact_Loadbar.uasset",
 				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/Gameplay/Interactables/BP_Interactable_Master.uasset",
 				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/Gameplay/Interfaces/BPI_Intercatable.uasset",
 				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/Characters/Components/InteractionComponent.uasset",
-				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/UI/Interactables/W_Interact_Message.uasset"
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/UI/Interactables/W_Interact_Message.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/UI/Interactables/Materials/T_CircularMask.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/UI/Interactables/Materials/M_ProgressCircle.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/UI/Interactables/Materials/MI_ProgressCircle.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/ThirdPerson/Input/Actions/IA_Interact.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/Gameplay/Interactables/BP_Interactable_Test.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/DT/ORBEU9VYCID98OCFJ3DCBK.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/R7/25I3EOK05J2RCGBQXYRQRH.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/NQ/LW87EMTW3QL90MF7SO43TJ.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/YP/C503Q5UW1KICWBO9A2KHAJ.uasset",
+				"C:/Users/katam/OneDrive/Projects/Valdau/Valdau_git/Valdau/Content/UI/Interactables/W_Interactable.uasset"
 			]
 		}
 	]
